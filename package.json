@@ -5,6 +5,9 @@
   "repository": "git@github.com:cesarrafaeljunior/api_book_registration.git",
   "author": "César Rafael <cesarrdev@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "express": "^4.18.2",
