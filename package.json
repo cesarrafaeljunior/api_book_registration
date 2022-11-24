@@ -1,0 +1,18 @@
+{
+  "name": "api_book_registration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cesarrafaeljunior/api_book_registration.git",
+  "author": "César Rafael <cesarrdev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "sucrase": "^3.29.0"
+  }
+}
